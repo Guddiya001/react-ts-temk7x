@@ -1,0 +1,7 @@
+h1, p {
+  font-family: Lato;
+}
+
+tr:nth-child(even){
+  background-color: aquamarine;
+}
